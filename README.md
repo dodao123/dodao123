@@ -1,8 +1,9 @@
 # 🌌 Chào các nhà thám hiểm vũ trụ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
-</div>
+src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOxfjsW9fWPqEWouI/giphy.gif" width="300"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/dodao123">
