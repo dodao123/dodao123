@@ -1,7 +1,7 @@
 # 🌌 Chào các nhà thám hiểm vũ trụ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-  <img src="(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZmdXRuZHBtems0eWs0OTU0OHgxcmgweHZwZTNiM2Jqb2Jxc2xydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif)" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZmdXRuZHBtems0eWs0OTU0OHgxcmgweHZwZTNiM2Jqb2Jxc2xydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l5JbspfwZ0yjHjlJ0K/giphy-downsized-large.gif" width="320"/>
 </p>
 
 <p align="center">
