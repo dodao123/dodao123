@@ -1,94 +1,94 @@
-# Hi there, I'm Do Dao 👋 
+# 🌌 Chào các nhà thám hiểm vũ trụ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<style>
-.space-bg {
-  background: url('https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=1600');
-  background-size: cover;
-  color: white;
-  padding: 20px;
-  border-radius: 10px;
-}
-
-.globe {
-  width: 200px;
-  height: 200px;
-  margin: 20px auto;
-}
-
-@keyframes rotate {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
-.rotate {
-  animation: rotate 20s linear infinite;
-}
-</style>
-
-<div class="space-bg">
-  <h1 align="center">Hi there, I'm Do Dao 👋</h1>
-  
-  <div align="center">
-    <svg class="globe rotate" viewBox="0 0 100 100">
-      <!-- Earth -->
-      <circle cx="50" cy="50" r="40" fill="#4B7BE5"/>
-      <!-- Continents -->
-      <path d="M30,20 Q40,40 60,30 T80,50 T60,70 T30,60 T20,40 Z" fill="#2B5B21"/>
-      <path d="M70,25 Q80,35 75,55 T60,65 T45,75 T35,45 Z" fill="#2B5B21"/>
-      <!-- Atmosphere glow -->
-      <circle cx="50" cy="50" r="42" fill="none" stroke="#85C1E9" stroke-width="1"/>
-      <circle cx="50" cy="50" r="44" fill="none" stroke="#85C1E9" stroke-width="0.5"/>
-    </svg>
-  </div>
-
-  <div align="center">
-    <i>A passionate developer who loves space and programming</i>
-  </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </div>
 
-<div class="main-content">
-  <h2>🚀 About Me</h2>
-  <p>I'm a software developer with a deep fascination for astronomy and space exploration. My work spans from creating immersive web experiences to developing engaging games!</p>
+<p align="center">
+  <a href="https://github.com/dodao123">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Software+Developer;Space+Enthusiast;Game+Creator;Tech+Explorer" alt="Typing SVG" />
+  </a>
+</p>
 
-  <h3>🎯 Skills & Technologies</h3>
-  <pre><code class="language-javascript">
-const skills = {
-    languages: ["C", "C++", "C#", "Python", "JavaScript"],
-    webDev: ["Node.js", "React"],
-    gameDev: ["Unity Engine"],
-    interests: ["Astronomy", "Space Science", "Game Development"]
+## 🚀 Về tôi
+
+> "Trong mỗi dòng code là một vũ trụ của những khả năng"
+
+Tôi là một kỹ sư phần mềm với niềm đam mê mãnh liệt về vũ trụ và công nghệ. Tôi kết hợp kiến thức lập trình với tình yêu thiên văn học để tạo ra những ứng dụng độc đáo.
+
+### 🌟 Tech Stack 
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
+### 🎯 Sở trường & Đam mê
+```javascript
+const space_explorer = {
+    code: ["Game Development", "Web Apps", "Data Visualization"],
+    astronomy: {
+        telescopes: ["Dobsonian", "Refractor"],
+        specialties: ["Deep Sky Objects", "Planetary Imaging"],
+        current_research: "Exoplanets Detection Algorithms"
+    },
+    current_mission: "Phát triển game mô phỏng vũ trụ với Unity Engine",
+    fun_fact: "Có thể code cả đêm dưới bầu trời sao ⭐"
 };
-  </code></pre>
+```
 
-  <h2>🔭 Current Work</h2>
-  <ul>
-    <li>Developing websites using React and Node.js</li>
-    <li>Creating immersive games with Unity Engine</li>
-    <li>Exploring the mysteries of the universe through code</li>
-  </ul>
+## 📊 Chỉ số hoạt động
 
-  <h2>💻 Projects</h2>
-  <ul>
-    <li>🎮 Game Development Projects using Unity</li>
-    <li>🌐 Web Applications</li>
-    <li>🔬 Space Science Visualizations</li>
-  </ul>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodao123&layout=compact&theme=dark" />
-  </div>
-
-  <h2>🤝 Let's Connect</h2>
-  <div align="center">
-    <a href="https://github.com/dodao123">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </div>
-
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=dodao123&color=blueviolet" alt="Profile views"/>
-  </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dodao123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodao123&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+## 🌌 Dự án tiêu biểu
+
+### 🚀 Space Explorer VR
+- Trải nghiệm khám phá vũ trụ thực tế ảo
+- Unity Engine + C#
+- Mô phỏng chính xác các thiên thể
+- [🔗 Repository](https://github.com/yourusername/space-explorer)
+
+### 🛸 Cosmic Data Visualizer
+- Web app hiển thị dữ liệu vũ trụ
+- React + Node.js
+- API của NASA
+- [🔗 Demo](https://your-demo-link.com)
+
+## 📫 Kết nối với tôi
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourid)
+
+</div>
+
+## 💫 Quote vũ trụ
+
+<div align="center">
+  
+> "Chúng ta đều được tạo nên từ bụi sao" - Carl Sagan
+
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dodao123&label=Số%20lượt%20ghé%20thăm&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+</div>
+
+<!--
+Fun Easter Egg: Người tìm thấy comment này hẳn là một explorer thực thụ! 🚀
+-->
