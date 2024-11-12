@@ -1,6 +1,5 @@
 # 🌌 Chào các nhà thám hiểm vũ trụ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <p align="center">
   <img src="https://media.giphy.com/media/xUOxfjsW9fWPqEWouI/giphy.gif" width="300"/>
 </p>
@@ -32,16 +31,17 @@ Tôi là một kỹ sư phần mềm với niềm đam mê mãnh liệt về vũ
 </div>
 
 ### 🎯 Sở trường & Đam mê
+              - C# and Unity
 ```javascript
 const space_explorer = {
-    code: ["Game Development", "Web Apps", "Data Visualization"],
-    astronomy: {
-        telescopes: ["Dobsonian", "Refractor"],
-        specialties: ["Deep Sky Objects", "Planetary Imaging"],
-        current_research: "Exoplanets Detection Algorithms"
+              code: ["Game Development", "Web Apps", "Data Visualization"],
+              astronomy: {
+              telescopes: ["Dobsonian", "Refractor"],
+              specialties: ["Deep Sky Objects", "Planetary Imaging"],
+              current_research: "Exoplanets Detection Algorithms"
     },
-    current_mission: "Phát triển game mô phỏng vũ trụ với Unity Engine",
-    fun_fact: "Có thể code cả đêm dưới bầu trời sao ⭐"
+              current_mission: "Phát triển game mô phỏng vũ trụ với Unity Engine",
+              fun_fact: "Có thể code cả đêm dưới bầu trời sao ⭐"
 };
 ```
 
