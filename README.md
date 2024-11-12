@@ -1,30 +1,7 @@
 # 🌌 Chào các nhà thám hiểm vũ trụ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/api/placeholder/800/400">
-    <source media="(prefers-color-scheme: light)" srcset="/api/placeholder/800/400">
-    <img alt="Space Banner" src="/api/placeholder/800/400" width="800px">
-  </picture>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="/api/placeholder/400/300">
-          <img alt="Deep Space" src="/api/placeholder/400/300" width="400px">
-        </picture>
-      </td>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="/api/placeholder/400/300">
-          <img alt="Galaxy" src="/api/placeholder/400/300" width="400px">
-        </picture>
-      </td>
-    </tr>
-  </table>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </div>
 
 <p align="center">
@@ -35,77 +12,11 @@
 
 ## 🚀 Về tôi
 
-> "Khám phá vũ trụ qua từng dòng code"
+> "Trong mỗi dòng code là một vũ trụ của những khả năng"
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    <h3>🌟 Chuyên môn</h3>
-    
-```javascript
-const astronaut = {
-    programming: {
-        languages: ["C", "C++", "C#", "Python", "JavaScript"],
-        frameworks: ["React", "Node.js", "Unity"],
-        databases: ["MongoDB", "MySQL"]
-    },
-    astronomy: {
-        telescopes: true,
-        astrophotography: true,
-        favorite_objects: [
-            "Andromeda Galaxy",
-            "Orion Nebula",
-            "Pleiades"
-        ]
-    }
-};
-```
-  </div>
+Tôi là một kỹ sư phần mềm với niềm đam mê mãnh liệt về vũ trụ và công nghệ. Tôi kết hợp kiến thức lập trình với tình yêu thiên văn học để tạo ra những ứng dụng độc đáo.
 
-  <div style="flex: 1;">
-    <h3>🎯 Thành tựu</h3>
-    
-    - 🎮 10+ Game Projects
-    - 🌐 15+ Web Applications
-    - 📱 5+ Mobile Apps
-    - 🔭 100+ Hours of Stargazing
-    - 📸 50+ Astrophotos
-  </div>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=dodao123&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodao123&theme=dark&hide_border=true" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🌌 Dự án tiêu biểu
-
-<table>
-  <tr>
-    <td align="center">
-      <h3>🚀 Space Explorer VR</h3>
-      <img src="/api/placeholder/400/200" width="400px" alt="Space Explorer VR"/>
-      <p>VR Game khám phá vũ trụ với Unity</p>
-    </td>
-    <td align="center">
-      <h3>🛸 Cosmic Data Visualizer</h3>
-      <img src="/api/placeholder/400/200" width="400px" alt="Cosmic Data Visualizer"/>
-      <p>Web app hiển thị dữ liệu thiên văn</p>
-    </td>
-  </tr>
-</table>
-
-## 🌟 Tech Stack
-
+### 🌟 Tech Stack 
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -119,24 +30,63 @@ const astronaut = {
 
 </div>
 
-## 📫 Liên hệ
+### 🎯 Sở trường & Đam mê
+```javascript
+const space_explorer = {
+    code: ["Game Development", "Web Apps", "Data Visualization"],
+    astronomy: {
+        telescopes: ["Dobsonian", "Refractor"],
+        specialties: ["Deep Sky Objects", "Planetary Imaging"],
+        current_research: "Exoplanets Detection Algorithms"
+    },
+    current_mission: "Phát triển game mô phỏng vũ trụ với Unity Engine",
+    fun_fact: "Có thể code cả đêm dưới bầu trời sao ⭐"
+};
+```
+
+## 📊 Chỉ số hoạt động
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dodao123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodao123&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 🌌 Dự án tiêu biểu
+
+### 🚀 Space Explorer VR
+- Trải nghiệm khám phá vũ trụ thực tế ảo
+- Unity Engine + C#
+- Mô phỏng chính xác các thiên thể
+- [🔗 Repository](https://github.com/yourusername/space-explorer)
+
+### 🛸 Cosmic Data Visualizer
+- Web app hiển thị dữ liệu vũ trụ
+- React + Node.js
+- API của NASA
+- [🔗 Demo](https://your-demo-link.com)
+
+## 📫 Kết nối với tôi
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourid)
+[![FACEBOOK : ]([https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com](https://www.facebook.com/profile.php?id=100028133171741))
+
 
 </div>
 
+## 💫 Quote vũ trụ
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dodao123&label=Lượt%20ghé%20thăm&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  
+> "Chúng ta đều được tạo nên từ bụi sao" - Carl Sagan
+
 </div>
 
 ---
-
 <div align="center">
-  <i>"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."</i><br>
-  - Carl Sagan
+  <img src="https://komarev.com/ghpvc/?username=dodao123&label=Số%20lượt%20ghé%20thăm&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </div>
+
+<!--
+Fun Easter Egg: Người tìm thấy comment này hẳn là một explorer thực thụ! 🚀
+-->
