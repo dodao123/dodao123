@@ -68,6 +68,13 @@ fun_fact: "Có thể code cả đêm dưới bầu trời sao ⭐"
 
 ---
 
+## 🏆 GitHub Trophies 🏆
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dodao123&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ## 📫 Kết nối với tôi
 <div align="center">
   <h2 style="
