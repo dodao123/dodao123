@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/dodao123">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&pause=1000&color=7CFC00&center=true&vCenter=true&width=435&lines=Software+Developer;Game+Creator;Tech+Explorer;Space+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=4000&pause=1000&color=7CFC00&center=true&vCenter=true&width=435&lines=Software+Developer;Game+Developer;Junior+Web+Developer;Space+Enjoy+People" alt="Typing SVG" />
   </a>
 </p>
 
