@@ -1,7 +1,7 @@
 <!-- GitHub Profile Readme -->
 # 🌌 Chào các nhà thám hiểm vũ trụ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="320"/>
+  <img src="giphy.webp" width="320"/>
 </p>
 <p align="center">
   <a href="https://github.com/dodao123">
@@ -31,6 +31,18 @@ Tôi là một lập trình viên đam mê khám phá vũ trụ công nghệ. S�
 </div>
 
 ---
+### 🎯 Sở trường & Đam mê
+- C# and Unity and Javascript
+const space_explorer = {
+code: ["Game Development", "Web Apps", "Data Visualization"],
+astronomy: {
+telescopes: ["Dobsonian", "Refractor"],
+specialties: ["Deep Sky Objects", "Planetary Imaging"],
+current_research: "Exoplanets Detection Algorithms"
+},
+current_mission: "Phát triển game mô phỏng vũ trụ với Unity Engine",
+fun_fact: "Có thể code cả đêm dưới bầu trời sao ⭐"
+};
 
 ## 🌌 Dự án tiêu biểu
 
@@ -50,13 +62,34 @@ Tôi là một lập trình viên đam mê khám phá vũ trụ công nghệ. S�
 
 ## 📊 Chỉ số hoạt động
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dodao123&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodao123&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dodao123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodao123&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
 ## 📫 Kết nối với tôi
+<div align="center">
+  <h2 style="
+  font-family: 'Arial', sans-serif;
+  font-size: 2.5em;
+  color: #4CAF50;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  animation: bounce 2s infinite;
+    @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-10px);
+    }
+    60% {
+      transform: translateY(-5px);
+    }
+  }
+">Ở đây </h2>
+</div>
 <div align="center">
   <a href="https://facebook.com/profile.php?id=100028133171741"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://linkedin.com/in/dodao123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
