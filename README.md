@@ -38,18 +38,17 @@ Tôi là **Meens - Độ Đào**, một lập trình viên đam mê khám phá v
 
 ## 🌠 Sứ Mệnh
 
-```javascript
-const space_explorer = {
-  code: ["Game Development", "Web Apps", "Data Visualization"],
-  astronomy: {
-    telescopes: ["Dobsonian", "Refractor"],
-    specialties: ["Deep Sky Objects", "Planetary Imaging"],
-    current_research: "Exoplanets Detection Algorithms"
-  },
-  current_mission: "Xây dựng vũ trụ tương tác bằng Unity và Web3.0",
-  fun_fact: "Có thể code suốt đêm dưới bầu trời đầy sao ⭐"
-};
-```
+Tôi không chỉ là một lập trình viên — tôi là một nhà thám hiểm công nghệ với khát vọng đưa những ý tưởng bay xa như những vì sao lấp lánh trên bầu trời đêm.
+
+Với niềm đam mê sâu sắc dành cho thiên văn học và công nghệ sáng tạo, tôi tập trung phát triển những dự án mang tính truyền cảm hứng và khám phá, bao gồm:
+
+🎮 Game nhập vai, giáo dục, mô phỏng không gian
+
+🌐 Website và ứng dụng thân thiện, mang đậm chất khoa học và vũ trụ
+
+🧠 Kết hợp công nghệ hiện đại như thực tế ảo (VR), trí tuệ nhân tạo (AI) và machine learning
+
+🎯 Mục tiêu lớn nhất của tôi là xây dựng một nền tảng game mô phỏng vũ trụ giúp người chơi không chỉ giải trí mà còn học hỏi và cảm nhận được vẻ đẹp huyền bí của vũ trụ.
 
 ---
 
