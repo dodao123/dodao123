@@ -98,12 +98,23 @@ Với niềm đam mê sâu sắc dành cho thiên văn học và công nghệ s�
 
 ## 📊 GitHub Stats
 
+Dữ liệu không chỉ là con số – đó là hành trình mà tôi đã đi qua trên GitHub 🚀
+
 <div align="center">
+  <!-- Tổng quan GitHub -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dodao123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodao123&layout=compact&langs_count=7&theme=tokyonight"/>
+
+  <!-- Ngôn ngữ phổ biến -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodao123&layout=compact&langs_count=8&theme=tokyonight"/>
+
+  <!-- Chuỗi ngày hoạt động liên tục -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=dodao123&theme=tokyonight&hide_border=true"/>
 </div>
 
+<!-- Biểu đồ hoạt động tổng thể -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodao123&theme=tokyo-night&area=true&hide_border=true"/>
+</p>
 ---
 
 ## 🏆 Thành Tích GitHub
