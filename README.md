@@ -109,7 +109,10 @@ Dữ liệu không chỉ là con số – đó là hành trình mà tôi đã đ
 
   <!-- Chuỗi ngày hoạt động liên tục -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=dodao123&theme=tokyonight&hide_border=true"/>
+  
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dodao123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <!-- Biểu đồ hoạt động tổng thể -->
 <p align="center">
