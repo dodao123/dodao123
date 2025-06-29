@@ -118,7 +118,7 @@ Với niềm đam mê sâu sắc dành cho thiên văn học và công nghệ s�
 
 <div align="center">
   <a href="https://facebook.com/profile.php?id=100028133171741"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="[https://linkedin.com/in/dodao123](https://www.linkedin.com/in/%C4%91%E1%BB%99-%C4%91%C3%A0o-377926298/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%C4%91%E1%BB%99-%C4%91%C3%A0o-377926298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dodao2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
